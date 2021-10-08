@@ -173,6 +173,14 @@ mainFontGreen {
   color: #00ff44;
 }
 
+mainFontGreenNC {
+     display: block;
+     width: 700px;
+     margin:auto;
+     font: 25px Monaco,"Times New Roman",monospace;
+     color: #00ff44;
+}
+
 mainFontWhite {
   display: block;
   width: 700px;
