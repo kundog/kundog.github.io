@@ -165,7 +165,8 @@ headerBackground {
 
 header_font {
   display: block;
-  width: 600px;
+  width: auto;
+  text-align: center;
   margin: auto;
   font: 50px Monaco,"Times New Roman",monospace;
   color: white;
@@ -282,7 +283,11 @@ mainFontWhiteT{
      border: 3px solid #73AD21;
      padding: 10px;
 }
-
+.center {
+     margin: auto;
+     width: 854px;
+     padding: 10px;
+   }
 @keyframes fadeIn {
   0% {opacity:0;}
   100% {opacity:1;}
