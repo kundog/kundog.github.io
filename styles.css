@@ -30,8 +30,8 @@ html{
      display: block;
      height: 900px;
 }
-#mainPictureFull {
-     background-image: url(images/mainpage.png);
+#mainPictureTer {
+     background-image: url(images/terbackground.png);
      background-size: cover;
      background-attachment: fixed;
      display: block;
@@ -173,7 +173,8 @@ header_font {
 }
 header_font_smaller {
      display: block;
-     width: 600px;
+     width: auto;
+     text-align: center;
      margin: auto;
      font: 25px Monaco,"Times New Roman",monospace;
      color: white;
