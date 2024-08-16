@@ -198,6 +198,15 @@ mainFontGreen {
   color: #00ff44;
 }
 
+mainFontBlue {
+     display: block;
+     width: 40% ;
+     align-self: center;
+     margin:auto;
+     font: 25px Monaco,"Times New Roman",monospace;
+     color: #4c41ec;
+   }
+
 mainFontGreenNC {
      display: block;
      width: 700px;
