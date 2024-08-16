@@ -171,6 +171,15 @@ header_font {
   font: 50px Monaco,"Times New Roman",monospace;
   color: white;
 }
+
+regular_text {
+     display: block;
+     width: auto;
+     text-align: center;
+     margin: auto;
+     font: 35px Monaco,"Times New Roman",monospace;
+     color: white;
+   }
 header_font_smaller {
      display: block;
      width: auto;
